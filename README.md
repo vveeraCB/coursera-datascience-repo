@@ -1,1 +1,1 @@
-# coursera-datascience-repo
+# veera-datascience
