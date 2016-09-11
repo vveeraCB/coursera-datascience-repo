@@ -1,1 +1,5 @@
-# veera-datascience
+## veera-datascience
+
+* installing packages
+* Theory
+* Practice
